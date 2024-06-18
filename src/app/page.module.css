@@ -60,9 +60,8 @@
 
 @media only screen and (max-width: 768px) {
   .intro {
+    font-size: 0.75rem;
     flex-direction: column;
-    justify-content: space-around;
-    min-height: 0vh;
   }
   .intro img {
     width: 60%;
