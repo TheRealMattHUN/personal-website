@@ -62,7 +62,8 @@
   .intro {
     font-size: 0.75rem;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    min-height: 100vh;
   }
   .intro img {
     width: 60%;
