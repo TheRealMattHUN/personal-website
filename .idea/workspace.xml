@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c79a4f16-16cd-4825-a1ef-cd8615830f8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/ISO_C++_Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ISO_C++_Logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Python-logo-notext.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Python-logo-notext.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Typescript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Typescript.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718714411729</updated>
-      <workItem from="1718714413151" duration="8996000" />
+      <workItem from="1718714413151" duration="9796000" />
     </task>
     <servers />
   </component>

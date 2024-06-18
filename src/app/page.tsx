@@ -1,9 +1,9 @@
 import Image from 'next/image'
 import styles from "./page.module.css";
 import Selfie from "../../public/cropped.webp";
-import cpp from "../../public/ISO_C++_Logo.svg.png";
-import py from "../../public/Python-logo-notext.svg.png";
-import ts from "../../public/Typescript.svg.png";
+import cpp from "../../public/ISO_C++_Logo.svg";
+import py from "../../public/Python-logo-notext.svg";
+import ts from "../../public/Typescript.svg";
 
 export default function Home() {
   return (
