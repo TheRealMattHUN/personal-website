@@ -62,7 +62,7 @@
   .intro {
     font-size: 0.75rem;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-between;
   }
   .intro img {
     width: 60%;
