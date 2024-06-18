@@ -51,11 +51,6 @@
   width: 25%;
   height: auto;
   padding: 3rem;
-  transition: all 0.3s ease;
-}
-
-.tile:hover {
-  transform: scale(120%);
 }
 
 @keyframes rotate {
