@@ -13,15 +13,15 @@ export default function Home() {
               <h1>Hi, I'm Somfai Máté</h1>
           </div>
           <div className={styles.about}>
-              <p>I'm an amateur programmer studying at  <a href="http://web.lovassy.hu/">Lovassy László High School</a> in Veszprém.</p>
+              <p>I'm an amateur programmer studying at <a href="http://web.lovassy.hu/">Lovassy László High School</a> in Veszprém.</p>
               <p>I began programming when I was 12, but I didn't really get into it until recently.</p>
           </div>
           <div className={styles.languages}>
               <h1>Expertise in these languages:</h1>
               <div className={styles.tiles}>
-                  <Image className={styles.tile} src={cpp} alt="C++"></Image>
-                  <Image className={styles.tile} src={py} alt="Python"></Image>
-                  <Image className={styles.tile} src={ts} alt="Typescript"></Image>
+                  <Image src={cpp} alt="C++"></Image>
+                  <Image src={py} alt="Python"></Image>
+                  <Image src={ts} alt="Typescript"></Image>
               </div>
           </div>
       </div>

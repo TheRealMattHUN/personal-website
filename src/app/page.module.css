@@ -47,10 +47,15 @@
   justify-content: center;
 }
 
-.tile {
+.tiles img {
   width: 25%;
   height: auto;
   padding: 3rem;
+  transition: all 0.3s ease;
+}
+
+.tiles img:hover {
+  transform: scale(120%);
 }
 
 @keyframes rotate {
