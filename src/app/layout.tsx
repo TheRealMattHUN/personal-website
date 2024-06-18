@@ -5,7 +5,7 @@ import "./globals.css";
 const jetBrainsMono = JetBrains_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "somfai.hun",
+  title: "somfai.hu",
 };
 
 export default function RootLayout({
