@@ -62,6 +62,7 @@
   .intro {
     flex-direction: column;
     justify-content: space-around;
+    min-height: 0vh;
   }
   .intro img {
     width: 60%;
