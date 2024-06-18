@@ -21,6 +21,11 @@
   width: 25%;
   height: auto;
   border-radius: 100px;
+  transition: all 1.2s ease;
+}
+
+.intro img:hover {
+  transform: rotate(360deg);
 }
 
 .about {

@@ -17,7 +17,7 @@ export default function Home() {
               <p>I began programming when I was 12, but I didn't really get into it until recently.</p>
           </div>
           <div className={styles.languages}>
-              <h1>Expertise in these languages</h1>
+              <h1>Expertise in these languages:</h1>
               <div className={styles.tiles}>
                   <Image className={styles.tile} src={cpp} alt="C++"></Image>
                   <Image className={styles.tile} src={py} alt="Python"></Image>
